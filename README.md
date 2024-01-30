@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kraansari
+- 👋 Hi, I’m @Ansari
 - 👀 I’m interested in ...solving world problems using data science, AI and ML
 - 🌱 I’m currently learning ...DevOPs, Neural Networks, Deep Learning, Time series forecasting, Reinforcement learning and Graph ML
 - 💞️ I’m looking to collaborate on ...real-time projects focuing on ML Models and applications
